@@ -1,2 +1,2 @@
 # mi-portfolio
-Este es mi portfolio hecho en htnl, css y javascript
+Este es mi portfolio hecho en html, css y javascript
